@@ -8,10 +8,10 @@
 
 - 🔭 I’m currently working on [Fiel Empresa Contábil](http://www.fielcontabil.com.br)
 - 🌱 I’m currently learning
-  ![React](https://img.shields.io/badge/-React-black?logo=react)
+  ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
-  ![Nodejs](https://img.shields.io/badge/-Nodejs-black?&logo=Node.js)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  ![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
