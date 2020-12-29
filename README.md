@@ -8,13 +8,14 @@
 
 - 🔭 I’m currently working on [Fiel Empresa Contábil](http://www.fielcontabil.com.br)
 - 🌱 I’m currently learning
-  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+  ![React](https://img.shields.io/badge/-React-black?logo=react)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
+  ![Nodejs](https://img.shields.io/badge/-Nodejs-black?&logo=Node.js)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
-- 👯 I’m looking to collaborate on [EcoBrains](https://ob-group.github.io/WebSite-EcoBrains/)
+- 👯 I’m looking to collaborate on [EcoBrains](https://github.com/onlybrains/WebSite-EcoBrains)
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-cleysonsilva.me@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cleysonsilva.me@gmail.com)](mailto:cleysonsilva.me@gmail.com)
 - ⚡ Fun fact: I play the keyboard :musical_keyboard:
 
