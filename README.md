@@ -16,7 +16,7 @@
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
 - 👯 I’m looking to collaborate on [EcoBrains](https://github.com/onlybrains/WebSite-EcoBrains)
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-cleysonsilva.me@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cleysonsilva.me@gmail.com)](mailto:cleysonsilva.me@gmail.com)
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-cleysonsilva.me@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:cleysonsilva.me@gmail.com)](mailto:cleysonsilva.me@gmail.com)
 - ⚡ Fun fact: I play the keyboard :musical_keyboard:
 
  <p align="center">
