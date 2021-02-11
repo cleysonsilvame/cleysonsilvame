@@ -1,8 +1,7 @@
 <h1 align="center">Hi guys 👋, I'm Cleyson Silva</h1>
 <h3 align="center">A student developer focused on evolving in this awesome world of programming</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cleysonsilvame" alt="cleysonsilvame" /> 
-  <a href="https://cleysonsilvame.github.io/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+  <img src="https://komarev.com/ghpvc/?username=cleysonsilvame" alt="cleysonsilvame" />
 </p>
 
 
