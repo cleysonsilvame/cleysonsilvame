@@ -1,8 +1,10 @@
-<h1 align="center">Hi guys 👋, I'm Cleyson Silva</h1>
+<img src="./.github/cleyson-assinatura.png" alt="cleysonsilvame" min-width="400px" max-width="400px" width="400px" align="right"/> 
 <h3 align="center">A student developer focused on evolving in this awesome world of programming</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cleysonsilvame" alt="cleysonsilvame" />
 </p>
+  
 <p>
   Since I was a child I have been involved with technology as a whole, despite joining a more in-depth study on 22 years old area - because I had opportunities - I always found myself solving problems with technology for all jobs I spent. My TCC of the technician at ETEC was a web application for an ecological solution, where we connect companies that generate large waste with cooperatives that collect these materials. We were in 3rd place at FECEG (Science and Guarulhos Engineering) with this project. I was a prominent student twice during the training at ETEC.
  </p>
