@@ -8,6 +8,7 @@
  </p>
 
   <img src="https://github-readme-stats.vercel.app/api?username=cleysonsilvame&show_icons=true&bg_color=151515&title_color=fff&text_color=9f9f9f&icon_color=79ff97" alt="cleysonsilvame" min-width="400px" max-width="400px" width="400px" align="right"/> 
+  
 - 🔭 I’m currently working on [Fiel Empresa Contábil](http://www.fielcontabil.com.br)
 - 🌱 I’m currently learning
   ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
