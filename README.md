@@ -28,5 +28,5 @@
 - 📫 How to reach me: 
 [![Gmail Badge](https://img.shields.io/badge/-cleysonsilva.me@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:cleysonsilva.me@gmail.com)](mailto:cleysonsilva.me@gmail.com)
 
-[Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleyson-silva-639b01188/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleyson-silva-639b01188/)](https://www.linkedin.com/in/cleyson-silva-639b01188/)
 - ⚡ Fun fact: I play the keyboard :musical_keyboard:
