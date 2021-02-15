@@ -3,8 +3,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cleysonsilvame" alt="cleysonsilvame" />
 </p>
+<p>
+  Since I was a child I have been involved with technology as a whole, despite joining a more in-depth study on 22 years old area - because I had opportunities - I always found myself solving problems with technology for all jobs I spent. My TCC of the technician at ETEC was a web application for an ecological solution, where we connect companies that generate large waste with cooperatives that collect these materials. We were in 3rd place at FECEG (Science and Guarulhos Engineering) with this project. I was a prominent student twice during the training at ETEC.
+ </p>
 
-
+  <img src="https://github-readme-stats.vercel.app/api?username=cleysonsilvame&show_icons=true&bg_color=151515&title_color=fff&text_color=9f9f9f&icon_color=79ff97" alt="cleysonsilvame" min-width="400px" max-width="400px" width="400px" align="right"/> 
 - 🔭 I’m currently working on [Fiel Empresa Contábil](http://www.fielcontabil.com.br)
 - 🌱 I’m currently learning
   ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
@@ -17,13 +20,3 @@
 - 👯 I’m looking to collaborate on [EcoBrains](https://github.com/onlybrains/WebSite-EcoBrains)
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-cleysonsilva.me@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:cleysonsilva.me@gmail.com)](mailto:cleysonsilva.me@gmail.com)
 - ⚡ Fun fact: I play the keyboard :musical_keyboard:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cleysonsilvame&show_icons=true&bg_color=151515&title_color=fff&text_color=9f9f9f&icon_color=79ff97" alt="cleysonsilvame"/> 
- </p>
-
-
-<!--
--💬 Ask me about ...
-- 😄 Pronouns: ...
--->
