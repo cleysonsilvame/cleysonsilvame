@@ -18,11 +18,8 @@
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-cleysonsilva.me@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:cleysonsilva.me@gmail.com)](mailto:cleysonsilva.me@gmail.com)
 - ⚡ Fun fact: I play the keyboard :musical_keyboard:
 
- <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleysonsilvame&layout=compact" />
- </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cleysonsilvame&show_icons=true" alt="cleysonsilvame"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=cleysonsilvame&show_icons=true&bg_color=151515&title_color=fff&text_color=9f9f9f&icon_color=79ff97" alt="cleysonsilvame"/> 
  </p>
 
 
