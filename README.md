@@ -15,16 +15,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cleysonsilvame&show_icons=true&bg_color=080c0f&title_color=fff&text_color=9f9f9f&icon_color=FD3838" alt="cleysonsilvame" min-width="400px" max-width="400px" width="400px" align="right"/> 
   
   
-- 🔭 I’m currently working on [Fiel Empresa Contábil](http://www.fielcontabil.com.br)
+- 🔭 I’m currently working on [Cromai Tecnologias Agrícolas](https://www.cromai.com/)
 - 🌱 I’m currently learning
-  ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-  ![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+  ![Electron](https://img.shields.io/badge/Electron-20232A?logo=electron&logoColor=61DAFB)
+  ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow)
 
-- 👯 I’m looking to collaborate on [EcoBrains](https://github.com/onlybrains/WebSite-EcoBrains)
+
 - 📫 How to reach me: 
 [![Gmail Badge](https://img.shields.io/badge/-cleysonsilva.me@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:cleysonsilva.me@gmail.com)](mailto:cleysonsilva.me@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleyson-silva-639b01188/)](https://www.linkedin.com/in/cleyson-silva-639b01188/)
