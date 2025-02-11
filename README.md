@@ -1,6 +1,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cleysonsilvame&show_icons=true&bg_color=080c0f&title_color=fff&text_color=9f9f9f&icon_color=FD3838" alt="cleysonsilvame" min-width="400px" max-width="400px" width="400px" align="right"/> 
 
-<h3 align="center">Frontend programmer with interests in pipelines and architecture</h3>
+<h3 align="center">Web developer with interests in pipelines and architecture</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cleysonsilvame" alt="cleysonsilvame" />
