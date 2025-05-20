@@ -11,7 +11,7 @@
 
   ---
 
-<p>🔭 I’m currently working on [Cromai Tecnologias Agrícolas](https://www.cromai.com/)</p>
+🔭 I’m currently working on [Cromai Tecnologias Agrícolas](https://www.cromai.com/)
 <p>📫 Web developer fascinated by creating innovative and efficient solutions. I have a strong background in technology since childhood, always seeking to solve problems with creativity and expertise.
 </p>
 <p>:musical_keyboard: Fun fact: I play the keyboard </p>
